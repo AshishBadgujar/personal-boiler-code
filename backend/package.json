@@ -10,10 +10,12 @@
   },
   "devDependencies": {
     "@types/node": "^20.5.7",
+    "prisma": "^6.6.0",
     "typescript": "^5.2.2",
     "vitest": "^1.5.0"
   },
   "dependencies": {
+    "@prisma/client": "^6.6.0",
     "encore.dev": "^1.43.12"
   },
   "optionalDependencies": {
